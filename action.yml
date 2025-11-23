@@ -1,0 +1,5 @@
+name: 'Code Linter'
+description: 'Lint your code'
+runs:
+  using: 'node20'
+  main: 'index.js'
